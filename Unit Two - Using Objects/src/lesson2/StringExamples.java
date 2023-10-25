@@ -13,6 +13,8 @@ public class StringExamples {
         System.out.println("The index of " + s + " in " + s2 + " is " + s2.indexOf(s));
 
         String subString1 = s1.substring(5,8);  //For "bet"
+
+        System.out.println(subString1);
         
     }
 }
