@@ -4,7 +4,9 @@ public class NestedLoops {
     public static void main(String[] args) {
         rectangle(5,4, "+");
         triangle1(5, "#");
+        System.out.println();
         triangle2(5, "#");
+        System.out.println();
         triangle3(5, "#");
 
     }
